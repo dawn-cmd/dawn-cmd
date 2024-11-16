@@ -8,12 +8,12 @@
 Welcome to my Github page! I am HuaiYuan Jing and I am currently finishing my Computer Science Bachelor degree at the university of Wisconsin Madison!  
 
 
-#### 🌱 Things I am currently working on: 
-- Finish Computer Science Bachelor Degree
-- Develop 2DAdvanture Game project with Unity
-- Develop RISC-V system with Rust
+#### Things I am currently working on: 
+- Finishing Computer Science Bachelor Degree
+- Learning Haskell
+- Learning Quantum Computer & Algorithms
 
-#### :muscle: Things I am challenging myself with:
+#### Things I am challenging myself with:
 - Wake up at 6 a.m. and sleep at 9 p.m.
 - Find an Internship
 
